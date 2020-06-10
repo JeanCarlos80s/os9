@@ -1,5 +1,5 @@
 <h1 align="center">
-    AirCNC
+    Aircnc
 </h1>
 
 ## Tecnologias
