@@ -7,7 +7,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/ "Node.js")
 - [React](https://reactjs.org/ "React")
-- [Expo](https://expo.io/ "Expo")
 
 ## Projeto
 
